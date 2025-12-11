@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Position on Deadnaut</title>
-    <link>http://localhost:1313/categories/position/</link>
+    <link>http://localhost:1314/categories/position/</link>
     <description>Recent content in Position on Deadnaut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/position/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/position/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Pwn &amp; Patch Internship</title>
-      <link>http://localhost:1313/achievements/pwn-and-patch-internship/</link>
+      <link>http://localhost:1314/achievements/pwn-and-patch-internship/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1313/achievements/pwn-and-patch-internship/</guid>
+      <guid>http://localhost:1314/achievements/pwn-and-patch-internship/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/achievements/pwn-and-patch-internship/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/achievements/pwn-and-patch-internship/feature.png" />
     </item>
     
   </channel>

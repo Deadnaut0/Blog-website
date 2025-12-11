@@ -11,7 +11,7 @@ title = "Deadnaut"
   dateFormat = "2 January 2006"
   logo = "img/logo.gif"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "Cybersecurity researcher sharing technical write-ups, CTF walkthroughs, and security insights."
   copyright = "Copy, _right?_ 🤔"
 
 [params.author]
