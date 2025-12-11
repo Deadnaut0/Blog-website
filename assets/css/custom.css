@@ -1,0 +1,78 @@
+@font-face {
+    font-family: font;
+    src: url('/fonts/Glitch.ttf');
+}
+
+@font-face {
+    font-family: tmp;
+    src: url('/fonts/Fira.ttf')
+}
+
+html {
+    font-family: tmp;
+}
+nav{
+    font-family: font;
+
+}
+nav:first-of-type a:first-child {
+    font-size: 17pt;
+
+}
+
+#TableOfContents {
+    font-family : tmp;
+    font-size: 12pt;
+}
+
+#TableOfContents a {
+    transition : all 0.2s;
+}
+
+
+#TableOfContents a:hover{
+    border-bottom : 1px rgba(var(--color-primary-400),1) solid;
+}
+
+
+
+
+/*Typeit*/
+article.prose h2.mt-0.mb-0.text-xl {
+    display: inline-block;
+    border-right: 0.15em solid;
+    white-space: nowrap;
+    overflow: hidden;
+    animation:
+    typing 9s steps(50) infinite,
+    blink 0.75s step-end infinite;
+}
+
+/* Typing and deleting combined */
+@keyframes typing {
+    0% {
+        width: 0;
+    }
+    30%{
+        width: 49ch;
+    }
+    44% {
+        width: 49ch;
+    }
+    66% {
+        width: 49ch;
+    }
+    88% {
+        width: 0;
+    }
+    100% {
+        width: 0;
+    }
+}
+
+/* Cursor blink */
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}

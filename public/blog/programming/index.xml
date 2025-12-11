@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on Deadnaut</title>
+    <link>http://localhost:1313/blog/programming/</link>
+    <description>Recent content in Programming on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Scansets in C</title>
+      <link>http://localhost:1313/blog/programming/scansets-in-c/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/blog/programming/scansets-in-c/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/programming/scansets-in-c/feature.png" />
+    </item>
+    
+    <item>
+      <title>Format Specifiers in C</title>
+      <link>http://localhost:1313/blog/programming/format-specifiers-in-c/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/blog/programming/format-specifiers-in-c/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/programming/format-specifiers-in-c/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>gets() is risky to use!</title>
+      <link>http://localhost:1313/blog/programming/gets-is-risky-to-use/</link>
+      <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/blog/programming/gets-is-risky-to-use/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/programming/gets-is-risky-to-use/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Unsigned char in C with Examples</title>
+      <link>http://localhost:1313/blog/programming/unsigned-char-in-c-with-examples/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/blog/programming/unsigned-char-in-c-with-examples/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/programming/unsigned-char-in-c-with-examples/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>
