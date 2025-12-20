@@ -38,59 +38,41 @@ nav:first-of-type a:first-child {
 
 
 /*Typeit*/
-/* --- Base Styles --- */
+/* --- Base Styles & Desktop --- */
 article.prose h2.mt-0.mb-0.text-xl {
     display: inline-block;
-    position: relative;
-    /* Removed white-space: nowrap to allow line wrapping */
-    white-space: normal;
+    border-right: 0.15em solid;
+    white-space: nowrap;
     overflow: hidden;
-
-    /* We use clip-path to reveal the text instead of width */
-    clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
-
+    /* Adjust this base font size to your liking for desktop */
+    font-size: 1.3rem;
     animation:
-    typingMulti 9s linear infinite;
+    typing 9s steps(50) infinite,
+    blink 0.75s step-end infinite;
 }
 
-/* We create the cursor using an 'after' element since border-right
- *  doesn't work well with multi-line text */
-article.prose h2.mt-0.mb-0.text-xl::after {
-    content: "";
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: 0.15em;
-    height: 1.2em;
-    background-color: currentColor;
-    animation: blink 0.75s step-end infinite;
+/* Base Keyframes */
+@keyframes typing {
+    0% { width: 0; }
+    30%, 44%, 66% { width: 49ch; }
+    88%, 100% { width: 0; }
 }
 
-/* Typing logic using Clip-Path */
-@keyframes typingMulti {
-    0% {
-        clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
-    }
-    30%, 66% {
-        /* This reveals the full block of text regardless of lines */
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
-    }
-    88%, 100% {
-        clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
-    }
-}
-
-/* Cursor blink */
 @keyframes blink {
-    50% { opacity: 0; }
+    50% { border-color: transparent; }
 }
 
 /* --- Mobile Fix --- */
 @media (max-width: 600px) {
     article.prose h2.mt-0.mb-0.text-xl {
-        /* Ensure the font size is comfortable for mobile */
-        font-size: 1.2rem;
-        display: block; /* Allows it to take up full width for wrapping */
-        width: 100%;
+        /* This makes the text shrink to fit the screen width */
+        font-size: 3.0vw;
+    }
+
+    @keyframes typing {
+        0% { width: 0; }
+        /* Uses 100% of screen width instead of fixed 49 characters */
+        30%, 44%, 66% { width: 100%; }
+        88%, 100% { width: 0; }
     }
 }
