@@ -38,41 +38,41 @@ nav:first-of-type a:first-child {
 
 
 /*Typeit*/
+/* --- Base Styles & Desktop --- */
 article.prose h2.mt-0.mb-0.text-xl {
     display: inline-block;
     border-right: 0.15em solid;
     white-space: nowrap;
     overflow: hidden;
+    /* Adjust this base font size to your liking for desktop */
+    font-size: 1.5rem;
     animation:
     typing 9s steps(50) infinite,
     blink 0.75s step-end infinite;
 }
 
-/* Typing and deleting combined */
+/* Base Keyframes */
 @keyframes typing {
-    0% {
-        width: 0;
-    }
-    30%{
-        width: 49ch;
-    }
-    44% {
-        width: 49ch;
-    }
-    66% {
-        width: 49ch;
-    }
-    88% {
-        width: 0;
-    }
-    100% {
-        width: 0;
-    }
+    0% { width: 0; }
+    30%, 44%, 66% { width: 49ch; }
+    88%, 100% { width: 0; }
 }
 
-/* Cursor blink */
 @keyframes blink {
-    50% {
-        border-color: transparent;
+    50% { border-color: transparent; }
+}
+
+/* --- Mobile Fix --- */
+@media (max-width: 600px) {
+    article.prose h2.mt-0.mb-0.text-xl {
+        /* This makes the text shrink to fit the screen width */
+        font-size: 3.5vw;
+    }
+
+    @keyframes typing {
+        0% { width: 0; }
+        /* Uses 100% of screen width instead of fixed 49 characters */
+        30%, 44%, 66% { width: 100%; }
+        88%, 100% { width: 0; }
     }
 }

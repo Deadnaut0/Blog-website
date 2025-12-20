@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cryptography on Deadnaut</title>
-    <link>http://localhost:1314/blog/cybersecurity/cryptography/</link>
+    <link>http://localhost:1313/blog/cybersecurity/cryptography/</link>
     <description>Recent content in Cryptography on Deadnaut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/blog/cybersecurity/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/cybersecurity/cryptography/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Understanding RSA Encryption: A Simple Guide Using C</title>
-      <link>http://localhost:1314/blog/cybersecurity/cryptography/understanding-rsa-encryption/</link>
+      <link>http://localhost:1313/blog/cybersecurity/cryptography/understanding-rsa-encryption/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/blog/cybersecurity/cryptography/understanding-rsa-encryption/</guid>
+      <guid>http://localhost:1313/blog/cybersecurity/cryptography/understanding-rsa-encryption/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/blog/cybersecurity/cryptography/understanding-rsa-encryption/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/cybersecurity/cryptography/understanding-rsa-encryption/feature.webp" />
     </item>
     
     <item>
       <title>Securing Your Messages: Integrating HMAC for Message Integrity in C</title>
-      <link>http://localhost:1314/blog/cybersecurity/cryptography/integrating-hmac/</link>
+      <link>http://localhost:1313/blog/cybersecurity/cryptography/integrating-hmac/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/blog/cybersecurity/cryptography/integrating-hmac/</guid>
+      <guid>http://localhost:1313/blog/cybersecurity/cryptography/integrating-hmac/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/blog/cybersecurity/cryptography/integrating-hmac/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/cybersecurity/cryptography/integrating-hmac/feature.webp" />
     </item>
     
     <item>
       <title>Mastering AES in CBC Mode: A Secure Approach to Encryption</title>
-      <link>http://localhost:1314/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/</link>
+      <link>http://localhost:1313/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/</link>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/</guid>
+      <guid>http://localhost:1313/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/cybersecurity/cryptography/mastering-aes-in-cbc-mode/feature.webp" />
     </item>
     
     <item>
       <title>Demystifying AES Cipher Encryption: A Comprehensive Guide</title>
-      <link>http://localhost:1314/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/</link>
+      <link>http://localhost:1313/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/</guid>
+      <guid>http://localhost:1313/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/cybersecurity/cryptography/demystifying-aes-cipher-encryption/feature.png" />
     </item>
     
     <item>
       <title>Unlocking the Secrets of Ciphering: A Beginner’s Guide to Cryptography</title>
-      <link>http://localhost:1314/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/</link>
+      <link>http://localhost:1313/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/</guid>
+      <guid>http://localhost:1313/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/cybersecurity/cryptography/unlocking-the-secrets-of-ciphering/feature.webp" />
     </item>
     
   </channel>

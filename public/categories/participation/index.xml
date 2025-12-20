@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Participation on Deadnaut</title>
-    <link>http://localhost:1314/categories/participation/</link>
+    <link>http://localhost:1313/categories/participation/</link>
     <description>Recent content in Participation on Deadnaut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/participation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/participation/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Victory at the INSIGHT Hackathon 2025</title>
-      <link>http://localhost:1314/achievements/insight-hackthon/</link>
+      <link>http://localhost:1313/achievements/insight-hackthon/</link>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1314/achievements/insight-hackthon/</guid>
+      <guid>http://localhost:1313/achievements/insight-hackthon/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1314/achievements/insight-hackthon/feature.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/achievements/insight-hackthon/feature.gif" />
     </item>
     
   </channel>
