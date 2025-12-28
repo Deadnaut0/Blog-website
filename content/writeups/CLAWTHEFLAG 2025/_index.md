@@ -13,4 +13,4 @@ During the ClawTheFlag Qualifications CTF, I solved several challenges across di
 
 `These writeups are meant both as a personal knowledge base and as a learning resource for anyone interested in CTFs.`
 
-Thanks to the **Cybears** team for a fun and educational challenges 🐻🎫
+Thanks to the **Cybears** team for fun and educational challenges 🐻🎫
