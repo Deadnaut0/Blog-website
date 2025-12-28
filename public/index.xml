@@ -9,7 +9,57 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curved - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/clawtheflag-2025/curved/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/clawtheflag-2025/curved/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/clawtheflag-2025/curved/feature.gif" />
+    </item>
+    
+    <item>
+      <title>CybearsInvite - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/clawtheflag-2025/cybears-invite/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/clawtheflag-2025/cybears-invite/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/clawtheflag-2025/cybears-invite/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Prison - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/clawtheflag-2025/prison/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/clawtheflag-2025/prison/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/clawtheflag-2025/prison/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Rng - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/clawtheflag-2025/rng/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/clawtheflag-2025/rng/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/clawtheflag-2025/rng/feature.gif" />
+    </item>
+    
+    <item>
+      <title>ZERO ZERO-Knowledge - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/clawtheflag-2025/zero-zero-knowledge/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/clawtheflag-2025/zero-zero-knowledge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/clawtheflag-2025/zero-zero-knowledge/feature.gif" />
+    </item>
     
     <item>
       <title>Victory at the INSIGHT Hackathon 2025</title>
