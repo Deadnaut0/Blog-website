@@ -645,5 +645,3 @@ The challenge creator made it solvable by choosing `0xa9059cbb` - the well-known
 - Test edge cases like empty arrays
 - Know your common Ethereum function selectors!
 
-Thanks to the **Cybears** team for a fun and educational challenge! 🐻🎫
-
