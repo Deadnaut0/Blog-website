@@ -10,7 +10,7 @@
 
 🌐 **Live site:** https://www.deadnaut.me/
 
-This repository powers **deadnaut**, a personal cybersecurity field notebook focused on **CTFs, red-team learning, labs, and security experimentation**.
+This repository powers **Deadnaut**, a personal cybersecurity field notebook focused on **CTFs, red-team learning, labs, and security experimentation**.
 
 This is not a marketing blog.  
 It’s **proof of work**.
