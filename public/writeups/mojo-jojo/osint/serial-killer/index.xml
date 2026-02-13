@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serial Killer Series - CTF Writeup on Deadnaut</title>
+    <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/</link>
+    <description>Recent content in Serial Killer Series - CTF Writeup on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Serial Killer 1 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 2 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 3 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 4 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 5 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>

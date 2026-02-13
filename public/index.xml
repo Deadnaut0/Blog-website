@@ -9,7 +9,237 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Anime - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/anime/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/anime/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/anime/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Bad Boy - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/forensics/bad_boy/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/forensics/bad_boy/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/forensics/bad_boy/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Broken Signatures - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/cryptography/broken-signatures/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/cryptography/broken-signatures/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/cryptography/broken-signatures/feature.gif" />
+    </item>
+    
+    <item>
+      <title>CS 12.06 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Deez Nuts - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/cryptography/deez-nuts/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/cryptography/deez-nuts/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/cryptography/deez-nuts/feature.gif" />
+    </item>
+    
+    <item>
+      <title>FIFA / FC - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/fifa-fc/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/fifa-fc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/fifa-fc/feature.gif" />
+    </item>
+    
+    <item>
+      <title>GATE - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/misc/gate/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/misc/gate/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/misc/gate/feature.gif" />
+    </item>
+    
+    <item>
+      <title>HIP-HOP - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Hmmm - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/forensics/hmmm/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/forensics/hmmm/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/forensics/hmmm/feature.gif" />
+    </item>
+    
+    <item>
+      <title>MOJO_LAB - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Nature Symphony - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/forensics/nature-symphony/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/forensics/nature-symphony/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/forensics/nature-symphony/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Nightmare - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/misc/nightmare/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/misc/nightmare/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/misc/nightmare/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Oracle - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Oracle Revenge - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 1 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 2 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 3 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 4 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Serial Killer 5 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Silent Hill - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/misc/silent-hill/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/misc/silent-hill/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/misc/silent-hill/feature.gif" />
+    </item>
+    
+    <item>
+      <title>The Archive&#39;s Whisper - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Warmup - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/feature.gif" />
+    </item>
+    
+    <item>
+      <title>🖤 BlackArch Tool Manager</title>
+      <link>http://localhost:1313/projects/blackarch-tool-manager/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/projects/blackarch-tool-manager/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/blackarch-tool-manager/feature.gif" />
+    </item>
     
     <item>
       <title>Curved - CTF Writeup</title>

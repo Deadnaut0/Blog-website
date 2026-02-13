@@ -3,19 +3,223 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/writeups/clawtheflag-2025/</loc>
-    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/anime/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/writeups/clawtheflag-2025/</loc>
-    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/writeups/mojo-jojo/forensics/bad_boy/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/cryptography/broken-signatures/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/cryptography/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/ctfs/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/cryptography/deez-nuts/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/fifa-fc/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/forensics/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/misc/gate/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/forensics/hmmm/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/misc/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/forensics/nature-symphony/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/misc/nightmare/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-1/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-2/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-3/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-4/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/serial-killer-5/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/osint/serial-killer/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/misc/silent-hill/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/</loc>
+    <lastmod>2026-02-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/blackarch-tool-manager/</loc>
+    <lastmod>2026-01-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/clawtheflag-2025/</loc>
+    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/writeups/clawtheflag-2025/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,12 +237,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/writeups/clawtheflag-2025/prison/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -46,12 +244,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/writeups/clawtheflag-2025/rng/</loc>
-    <lastmod>2025-12-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/writeups/</loc>
     <lastmod>2025-12-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -166,11 +358,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

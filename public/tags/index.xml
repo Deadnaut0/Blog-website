@@ -9,22 +9,12 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Sat, 27 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Blockchain</title>
-      <link>http://localhost:1313/tags/blockchain/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1313/tags/blockchain/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Cryptography</title>
       <link>http://localhost:1313/tags/cryptography/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
       <guid>http://localhost:1313/tags/cryptography/</guid>
       <description></description>
@@ -34,7 +24,7 @@
     <item>
       <title>Ctf</title>
       <link>http://localhost:1313/tags/ctf/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
       <guid>http://localhost:1313/tags/ctf/</guid>
       <description></description>
@@ -44,9 +34,79 @@
     <item>
       <title>Cybersecurity</title>
       <link>http://localhost:1313/tags/cybersecurity/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
       <guid>http://localhost:1313/tags/cybersecurity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DFIR</title>
+      <link>http://localhost:1313/tags/dfir/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/dfir/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:1313/tags/forensics/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Misc</title>
+      <link>http://localhost:1313/tags/misc/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/misc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Osint</title>
+      <link>http://localhost:1313/tags/osint/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/osint/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PWN</title>
+      <link>http://localhost:1313/tags/pwn/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/pwn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/tags/projects/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Blockchain</title>
+      <link>http://localhost:1313/tags/blockchain/</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
       <description></description>
       
     </item>
@@ -77,16 +137,6 @@
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
       <guid>http://localhost:1313/tags/medium/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Misc</title>
-      <link>http://localhost:1313/tags/misc/</link>
-      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1313/tags/misc/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MOJO-JOJO - CTF Writeups on Deadnaut</title>
+    <link>http://localhost:1313/ctfs/mojo-jojo/</link>
+    <description>Recent content in MOJO-JOJO - CTF Writeups on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ctfs/mojo-jojo/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

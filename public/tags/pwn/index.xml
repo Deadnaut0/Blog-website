@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PWN on Deadnaut</title>
+    <link>http://localhost:1313/tags/pwn/</link>
+    <description>Recent content in PWN on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/pwn/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Binary Exploitation</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CS 12.06 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/cs-12.06/feature.gif" />
+    </item>
+    
+    <item>
+      <title>HIP-HOP - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/hip-hop/feature.gif" />
+    </item>
+    
+    <item>
+      <title>MOJO_LAB - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/mojo_lab/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Oracle - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Oracle Revenge - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/oracle-revenge/feature.gif" />
+    </item>
+    
+    <item>
+      <title>The Archive&#39;s Whisper - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/the-archive-whisper/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Warmup - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/mojo-jojo/binary-exploitation/warmup/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>
