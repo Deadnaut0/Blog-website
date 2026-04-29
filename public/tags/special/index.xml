@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Special on Deadnaut</title>
+    <link>http://localhost:1313/tags/special/</link>
+    <description>Recent content in Special on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Sat, 11 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/special/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Special</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>You are my Special 0 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/feature.gif" />
+    </item>
+    
+    <item>
+      <title>You are my Special 1 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/feature.gif" />
+    </item>
+    
+    <item>
+      <title>You are my Special 2 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>

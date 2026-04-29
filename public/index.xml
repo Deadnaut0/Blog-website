@@ -9,7 +9,227 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title> Culling Gateway - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway-/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway-/feature.gif" />
+    </item>
+    
+    <item>
+      <title> Culling Gateway Revenge - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway--revenge/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway--revenge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/-culling-gateway--revenge/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Abyss Vault - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/abyss-vault/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/abyss-vault/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/abyss-vault/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Fireball - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/fireball/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/fireball/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/fireball/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Gift Card - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Hello Shibuya - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/hello-shibuya-/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/hello-shibuya-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/hello-shibuya-/feature.gif" />
+    </item>
+    
+    <item>
+      <title>IMPOSSIBLE ESCAPE - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/impossible-escape/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/impossible-escape/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/impossible-escape/feature.gif" />
+    </item>
+    
+    <item>
+      <title>JUJUTSU HIGH: Cursed Archive  - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/jujutsu-high-cursed-archive-/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/jujutsu-high-cursed-archive-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/jujutsu-high-cursed-archive-/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Panic Attack I - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Panic Attack II - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/feature.gif" />
+    </item>
+    
+    <item>
+      <title>PEPE - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/misc/pepe/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/misc/pepe/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/misc/pepe/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Relic Vault - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/relic-vault/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/relic-vault/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/relic-vault/feature.gif" />
+    </item>
+    
+    <item>
+      <title>RNG FOR THE WIN - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/rng-for-the-win/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/rng-for-the-win/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/rng-for-the-win/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Smooth Curve - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/smooth-curve/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/smooth-curve/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/smooth-curve/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Tetris - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/tetris/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/tetris/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/tetris/feature.gif" />
+    </item>
+    
+    <item>
+      <title>TOP SECRET - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/top-secret/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/top-secret/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/top-secret/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Warmup - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/warmup/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/warmup/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/warmup/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Welcome Gift - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/cryptography/welcome-gift/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/cryptography/welcome-gift/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/cryptography/welcome-gift/feature.gif" />
+    </item>
+    
+    <item>
+      <title>You are my Special 0 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-0/feature.gif" />
+    </item>
+    
+    <item>
+      <title>You are my Special 1 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-1/feature.gif" />
+    </item>
+    
+    <item>
+      <title>You are my Special 2 - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/special/you-are-my-special-2/feature.gif" />
+    </item>
+    
+    <item>
+      <title>YUJI DREAMS - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/yuji-dreams/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/yuji-dreams/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/binary-exploitation/yuji-dreams/feature.gif" />
+    </item>
     
     <item>
       <title>Anime - CTF Writeup</title>

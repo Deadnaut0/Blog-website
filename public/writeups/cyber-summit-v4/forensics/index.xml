@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forensics on Deadnaut</title>
+    <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/</link>
+    <description>Recent content in Forensics on Deadnaut</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
+    <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
+    <copyright>Copy, _right?_ 🤔</copyright>
+    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/writeups/cyber-summit-v4/forensics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gift Card - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/gift-card/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Panic Attack I - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-i/feature.gif" />
+    </item>
+    
+    <item>
+      <title>Panic Attack II - CTF Writeup</title>
+      <link>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/</link>
+      <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/writeups/cyber-summit-v4/forensics/panic-attack-ii/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>
