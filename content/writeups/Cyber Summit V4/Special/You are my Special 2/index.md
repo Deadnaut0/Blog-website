@@ -29,7 +29,7 @@ We dropped into the map and immediately found the first half in a hidden room.
 
 ![First half discovered](first-half.png)
 
-The first part reads: `Cybertrace{5UkUn4_W4$_`
+The first part reads: `Cybertrace{5UkUn4_`
 
 But then we hit the wall: the second half was clearly visible (or was it?) on an upper floor with no legitimate way to reach it.
 
@@ -88,7 +88,7 @@ Using NetRadiant's camera controls, we navigated to that forbidden upper floor. 
 
 ![Second half located on upper floor](second-half.png)
 
-And there it was: `H3Re!?_A84iN}`
+And there it was: `W4$_H3Re!?_A84iN}`
 
 ---
 
