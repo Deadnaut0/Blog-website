@@ -9,7 +9,27 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Mon, 10 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/achievements/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/achievements/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Certificate of Appreciation from CyberTrace Club</title>
+      <link>http://localhost:1313/achievements/certificate-of-appreciation-from-cybertrace/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/achievements/certificate-of-appreciation-from-cybertrace/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/achievements/certificate-of-appreciation-from-cybertrace/feature.gif" />
+    </item>
+    
+    <item>
+      <title>3rd Place at Hack To The Future CTF 2.0</title>
+      <link>http://localhost:1313/achievements/hack-to-the-future-ctf-2/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/achievements/hack-to-the-future-ctf-2/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/achievements/hack-to-the-future-ctf-2/feature.jpg" />
+    </item>
     
     <item>
       <title>Victory at the INSIGHT Hackathon 2025</title>
