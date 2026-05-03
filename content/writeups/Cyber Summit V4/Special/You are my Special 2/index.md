@@ -8,7 +8,7 @@ categories: ["Writeups"]
 ---
 
 **Challenge Name:** You are my Special 2  
-**Category:** Special
+**Category:** Special  
 **CTF:** CyberSummit V4.0 CTF  
 **Description:**
 Yuji caught the trail—a weird server ping, a flicker of encrypted data—then his vision blurred. Too tired. He face-planted into his desk and was out cold before the laptop fan stopped spinning.

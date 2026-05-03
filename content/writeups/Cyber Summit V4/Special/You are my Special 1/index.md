@@ -8,7 +8,7 @@ categories: ["Writeups"]
 ---
 
 **Challenge Name:** You are my Special 1  
-**Category:** Special
+**Category:** Special  
 **CTF:** CyberSummit V4.0 CTF  
 **Description:** Yuji ate the onigiri, eyes narrowing. Not over yet. He focused his cursed energy. "Secret Technique: Sniff Local Network." Energy rippled through the dorm Wi-Fi, locking onto Inumaki's device. Yuji saw activity but was truly astonished as he saw something quite peculiar. Whatever Inumaki was looking up… it was definitely for round two.  
 

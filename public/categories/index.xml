@@ -9,7 +9,27 @@
     <managingEditor>mazen.elheni@gmail.com (Deadnaut)</managingEditor>
     <webMaster>mazen.elheni@gmail.com (Deadnaut)</webMaster>
     <copyright>Copy, _right?_ 🤔</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Position</title>
+      <link>http://localhost:1313/categories/position/</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/categories/position/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Participation</title>
+      <link>http://localhost:1313/categories/participation/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <author>mazen.elheni@gmail.com (Deadnaut)</author>
+      <guid>http://localhost:1313/categories/participation/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Author</title>
@@ -37,26 +57,6 @@
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <author>mazen.elheni@gmail.com (Deadnaut)</author>
       <guid>http://localhost:1313/categories/player/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Participation</title>
-      <link>http://localhost:1313/categories/participation/</link>
-      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1313/categories/participation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Position</title>
-      <link>http://localhost:1313/categories/position/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <author>mazen.elheni@gmail.com (Deadnaut)</author>
-      <guid>http://localhost:1313/categories/position/</guid>
       <description></description>
       
     </item>

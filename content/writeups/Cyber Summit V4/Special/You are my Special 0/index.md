@@ -8,7 +8,7 @@ categories: ["Writeups"]
 ---
 
 **Challenge Name:** You are my Special 0  
-**Category:** Special
+**Category:** Special  
 **CTF:** CyberSummit V4.0 CTF  
 **Description:**
 Yuji swapped Inumaki's onigiri. Big mistake. Inumaki just stared, then pulled down his collar and rasped three commands: "YouTube. Old game. Search." Then he zipped his collar back up and walked away. No explanation. No hints. Just a mission. Yuji spent hours scrolling—past midnight, past 3 AM, past the point of sanity. Thumbnails blurred. Titles made no sense. He chased dead ends, clicked grainy uploads, and fought the YouTube algorithm like it was a cursed spirit. Just before dawn, he found it. He sent the link with trembling hands. A second later, his door slid open. Inumaki stood there, holding a fresh tuna mayo onigiri. He looked at Yuji's exhausted face, gave a small nod, and whispered: "...Salmon." Yuji took the onigiri. "Worth it," he yawned.
